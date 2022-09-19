@@ -9,7 +9,3 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Lucifer&langs_count=6&layout=compact&theme=tokyonight" /><br /><br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=X-Lucifer&&show_icons=true&&theme=tokyonight" />
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/X-Lucifer/AI-Lossless-Zoomer.svg)](https://starchart.cc/X-Lucifer/AI-Lossless-Zoomer)
